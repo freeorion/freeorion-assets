@@ -22,8 +22,8 @@ found in the root of this repository.
 Contribute
 ----------
 
-To contribute to the FreeOrion project please refer to our
-[How to Help] page.
+Pull requests to this repository are rejected by default. To contribute
+to the FreeOrion project please refer to our [How to Help] page.
 
 License
 -------
