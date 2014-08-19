@@ -34,6 +34,6 @@ Creative Commons Attribution-ShareAlike 3.0 Unported License.
 You should have received a copy of the license along with this
 work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 
-[FreeOrion] http://www.freeorion.org/
-[data directory] https://sourceforge.net/p/freeorion/code/HEAD/tree/trunk/FreeOrion/default/data/
-[How to Help] http://www.freeorion.org/index.php/How_to_Help
+[FreeOrion]: http://www.freeorion.org/
+[data directory]: https://sourceforge.net/p/freeorion/code/HEAD/tree/trunk/FreeOrion/default/data/
+[How to Help]: http://www.freeorion.org/index.php/How_to_Help
