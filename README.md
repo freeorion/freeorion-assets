@@ -2,13 +2,13 @@ FreeOrion assets
 ================
 
 This repository is used to track the source files of media assets that
-are used within the [FreeOrion][1] project.
+are used within the [FreeOrion] project.
 
 Usage
 -----
 
-This repository copies the structure of the data directory within the
-FreeOrion repository[2]. The media assets should be placed in the same
+This repository copies the structure of the [data directory] within the
+FreeOrion repository. The media assets should be placed in the same
 directory and have the same name as their in-game variant only differ
 by file extension.
 
@@ -23,7 +23,7 @@ Contribute
 ----------
 
 To contribute to the FreeOrion project please refer to our
-[How to Help][1] page.
+[How to Help] page.
 
 License
 -------
@@ -34,6 +34,6 @@ Creative Commons Attribution-ShareAlike 3.0 Unported License.
 You should have received a copy of the license along with this
 work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 
-[1] http://www.freeorion.org/
-[2] https://sourceforge.net/p/freeorion/code/HEAD/tree/trunk/FreeOrion/default/data/
-[3] http://www.freeorion.org/index.php/How_to_Help
+[FreeOrion] http://www.freeorion.org/
+[data directory] https://sourceforge.net/p/freeorion/code/HEAD/tree/trunk/FreeOrion/default/data/
+[How to Help] http://www.freeorion.org/index.php/How_to_Help
