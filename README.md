@@ -18,7 +18,7 @@ base name for sequences or the most detailed variant place.
 Beside every media asset a Markdown file with the same name should be
 placed.  This Markdown file should contain metadata about the asset
 authors, license, used editor and other relevant notes for other
-artists.  [A template Markdown file](template.md) can be found in
+artists.  [A template Markdown file](TEMPLATE.md) can be found in
 the root of this repository.
 
 Contribute
