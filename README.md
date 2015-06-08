@@ -22,8 +22,10 @@ found in the root of this repository.
 Contribute
 ----------
 
-Pull requests to this repository are rejected by default. To contribute
-to the FreeOrion project please refer to our [How to Help] page.
+Pull requests to this repository are rejected by default.  Please only
+open a pull request if specifically asked by the [FreeOrion Art Team].
+To contribute to the FreeOrion project please refer to our [How to Help]
+page.
 
 License
 -------
@@ -36,4 +38,5 @@ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 
 [FreeOrion]: http://www.freeorion.org/
 [data directory]: https://sourceforge.net/p/freeorion/code/HEAD/tree/trunk/FreeOrion/default/data/
+[FreeOrion Art Team]: http://www.freeorion.org/forum/viewforum.php?f=10
 [How to Help]: http://www.freeorion.org/index.php/How_to_Help
