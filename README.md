@@ -39,6 +39,6 @@ You should have received a copy of the license along with this
 work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 
 [FreeOrion]: http://www.freeorion.org/
-[data directory]: https://sourceforge.net/p/freeorion/code/HEAD/tree/trunk/FreeOrion/default/data/
+[data directory]: https://github.com/freeorion/freeorion/tree/master/default/data/
 [FreeOrion Art Team]: http://www.freeorion.org/forum/viewforum.php?f=10
 [How to Help]: http://www.freeorion.org/index.php/How_to_Help
