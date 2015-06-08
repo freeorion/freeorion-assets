@@ -15,9 +15,11 @@ by file extension.
 If a media asset is the source of multiple in-game variants use the
 base name for sequences or the most detailed variant place.
 
-Beside every media asset a .info file with the same name should be
-placed. A template plain-text .info file called template.info can be
-found in the root of this repository.
+Beside every media asset a Markdown file with the same name should be
+placed.  This Markdown file should contain metadata about the asset
+authors, license, used editor and other relevant notes for other
+artists.  A template Markdown file called (template.md) can be found in
+the root of this repository.
 
 Contribute
 ----------
