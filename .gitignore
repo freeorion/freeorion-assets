@@ -1,2 +1,5 @@
 # Ignore any Blender incremental backup file
 *.blend[1-9]
+
+# Ignore PyCharm project data folder
+*.idea/
