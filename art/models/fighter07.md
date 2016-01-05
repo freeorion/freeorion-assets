@@ -1,5 +1,5 @@
-Heavy Asteroid Hull
-==================
+Fighter 07
+==========
 
 Author
 ------

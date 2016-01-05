@@ -1,5 +1,5 @@
-Heavy Asteroid Hull
-==================
+Fighter 02
+==========
 
 Author
 ------
