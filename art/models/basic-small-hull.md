@@ -1,4 +1,4 @@
-Basic Medium Hull
+Basic Small Hull
 =======================
 
 Author
