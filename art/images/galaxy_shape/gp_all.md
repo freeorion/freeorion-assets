@@ -1,5 +1,5 @@
-Auto Turn
-=========
+Galaxy Shape Images
+===================
 
 Author
 ------
