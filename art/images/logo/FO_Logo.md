@@ -1,15 +1,15 @@
-FreeOrion Logo
-==============
+FreeOrion Logo + Text
+=====================
 
 Author
 ------
-The Silent One
-
-Based on the original versions of:
-
 Pd
 Mystiqq
 Eleazar
+
+High Resolution Version
+-----------------------
+The Silent One
 
 License
 -------
