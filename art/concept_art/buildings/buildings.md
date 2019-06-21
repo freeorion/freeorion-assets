@@ -3,7 +3,7 @@ Building Concept Art
 
 Author
 ------
-Josh
+Josh Combs
 
 
 License
