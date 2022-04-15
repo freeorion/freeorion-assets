@@ -4,7 +4,7 @@ Colony_destroyed.xcf
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

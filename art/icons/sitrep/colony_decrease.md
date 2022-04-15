@@ -4,7 +4,7 @@ Colony_decrease.xcf
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

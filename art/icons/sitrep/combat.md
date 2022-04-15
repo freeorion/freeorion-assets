@@ -4,7 +4,7 @@ Combat.xcf
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

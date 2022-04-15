@@ -4,7 +4,7 @@ Ancient_ruins_excavated.xcf
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

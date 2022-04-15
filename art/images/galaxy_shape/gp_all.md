@@ -4,7 +4,7 @@ Galaxy Shape Images
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 Homepage
 --------

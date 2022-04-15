@@ -4,7 +4,7 @@ planet_conquered
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

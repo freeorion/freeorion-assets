@@ -4,7 +4,7 @@ planet_colonized
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

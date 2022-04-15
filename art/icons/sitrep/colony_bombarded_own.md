@@ -4,7 +4,7 @@ Colony_bombarded_own
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

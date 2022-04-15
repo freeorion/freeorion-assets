@@ -4,7 +4,7 @@ Artificial Planet
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

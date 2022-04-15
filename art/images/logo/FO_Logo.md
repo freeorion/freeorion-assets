@@ -9,7 +9,7 @@ Eleazar
 
 High Resolution Version
 -----------------------
-The Silent One
+TheSilentOne
 
 License
 -------

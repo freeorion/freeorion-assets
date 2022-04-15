@@ -4,8 +4,7 @@ Planet Drive
 Author
 ------
 
-martin@diergarten.net
-
+TheSilentOne
 
 License
 -------

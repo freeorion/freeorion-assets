@@ -4,7 +4,7 @@ Dimensional Rift
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

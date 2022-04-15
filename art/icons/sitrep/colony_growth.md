@@ -4,7 +4,7 @@ Colony_growth.xcf
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

@@ -4,7 +4,7 @@ Planetary Stardrive
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

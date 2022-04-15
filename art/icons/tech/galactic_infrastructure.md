@@ -4,7 +4,7 @@ Galactic Infrastructure
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

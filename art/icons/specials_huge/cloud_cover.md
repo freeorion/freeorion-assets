@@ -4,7 +4,7 @@ Cloud Cover
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

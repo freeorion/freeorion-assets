@@ -4,7 +4,7 @@ Forcefield Harmonics
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License

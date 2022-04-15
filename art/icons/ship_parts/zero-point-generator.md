@@ -4,7 +4,7 @@ Zero-Point-Generator
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 Homepage
 --------

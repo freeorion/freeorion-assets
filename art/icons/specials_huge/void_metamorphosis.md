@@ -4,7 +4,7 @@ Void Metamorphosis
 Author
 ------
 
-martin@diergarten.net
+TheSilentOne
 
 
 License
